@@ -1,5 +1,7 @@
 <h1 align="center">I'm Sandhi Gupta</h1>
 <h3 align="center">An aspiring machine learning engineer with special interests in machine learning, deep learning, computer vision and data science.</h3>
+[![Sandhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandhigupta)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandhigupta&hide=javascript,html,typescript,css,Emacs_Lisp,c&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on **AI systems**
 
