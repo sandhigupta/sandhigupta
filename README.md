@@ -1,4 +1,4 @@
-<h1 align="center">I'm Sandhi Gupta</h1>
+<h1 align="center">Hi 👋, I'm Sandhi Gupta</h1>
 <h3 align="center">An aspiring machine learning engineer with special interests in machine learning, deep learning, computer vision and data science.</h3>
 
 - 🔭 I’m currently working on **AI systems**
